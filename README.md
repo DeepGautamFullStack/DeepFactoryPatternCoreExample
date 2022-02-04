@@ -9,7 +9,7 @@ Secondly, if we add a new Credit Card, then also we need to modify the Main meth
 **Solution:**
 Less control to consumer of class and less change in future when new product gets added.Also it reduces testing time because client not need to do special testing for newely added classes. Although there is no perfornce benifits.
 
-Drwaback:
+**Drawback:**
 If we need to add any new product (i.e. new credit card) then we need to add a new if else condition in the GetCreditCard method of the CreditCardFactory class. This violates the open/closed design principle.
 We also have a tight coupling between the Factory (CreditCardFactory) class and product classes (MoneyBack, Titanium, and Platinum).
 

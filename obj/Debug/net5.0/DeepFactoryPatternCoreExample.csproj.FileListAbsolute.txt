@@ -1,0 +1,16 @@
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\bin\Debug\net5.0\DeepFactoryPatternCoreExample.exe
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\bin\Debug\net5.0\DeepFactoryPatternCoreExample.deps.json
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\bin\Debug\net5.0\DeepFactoryPatternCoreExample.runtimeconfig.json
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\bin\Debug\net5.0\DeepFactoryPatternCoreExample.runtimeconfig.dev.json
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\bin\Debug\net5.0\DeepFactoryPatternCoreExample.dll
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\bin\Debug\net5.0\ref\DeepFactoryPatternCoreExample.dll
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\bin\Debug\net5.0\DeepFactoryPatternCoreExample.pdb
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.csproj.AssemblyReference.cache
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.AssemblyInfoInputs.cache
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.AssemblyInfo.cs
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.csproj.CoreCompileInputs.cache
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.dll
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\ref\DeepFactoryPatternCoreExample.dll
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.pdb
+C:\Users\dgaut\source\repos\DeepFactoryPatternCoreExample\obj\Debug\net5.0\DeepFactoryPatternCoreExample.genruntimeconfig.cache
